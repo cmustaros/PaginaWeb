@@ -1,5 +1,5 @@
 # Creación de mi primera página web simple
-Página web simple en HTML.
+**Página web simple en HTML.**
 
 Para la edición del código de mi primera página web he ido aprendiendo y utilizando el programa editor de texto *Notepad++*.
 
